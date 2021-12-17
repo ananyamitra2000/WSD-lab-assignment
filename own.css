@@ -1,0 +1,73 @@
+.navbar-inverse{
+	background: #ff884d;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: #ffece5;
+}
+.navbar-inverse .navbar-brand{
+	color:#ffece5;
+}
+.pad
+{
+	text-align:center; 
+}
+
+.jumbotron{
+	background-color: #ffece5;
+	color: #666666;
+	padding-bottom: 10px;
+	margin-top: 60px;
+}
+
+hr {
+    border: none;
+    border-top: 3px double #ffece5;
+    color: #666666;
+    overflow: visible;
+}
+.des{
+	margin-top: 8px;
+	text-align:center;
+	padding-top: 20px; 
+	padding-bottom: 10px;
+	}
+
+body{
+	background-color: aqua;
+}
+	
+	.navbar-inverse .navbar-brand:hover{
+  color: #ffffff;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+color: #ffffff;
+}
+.thumbnail:hover{
+	background-color: #ffffff;
+}
+.down{
+	padding-top: 4px;
+}
+.down1{
+	padding-top: 4px;
+	margin-top: 8px;
+	color: brown;
+}
+.text{
+	color: #00004d;
+	text-align: center;
+	font-size: 25px;
+}
+.icon{
+	color:#e60000;
+}
+.up > a{
+	color: #666666;
+	font-size: 50px 
+}
+.up{
+	padding-top: 10px;
+}
+.thumbnail{
+	background-color: #ffece5;
+}
