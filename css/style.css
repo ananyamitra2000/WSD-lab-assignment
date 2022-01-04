@@ -112,7 +112,7 @@ ul li.active a{
   }
   
   /* On screens that are 600px wide or less, make the menu links stack on top of each other instead of next to each other */
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 500px) {
     .topnav a {
       float: none;
       width: 100%;
@@ -121,4 +121,11 @@ ul li.active a{
 
   mark{
       background-color: aqua;
+  }
+
+  footer{
+      background-color: blue;
+      padding: 10px;
+      text-align: center;
+      color :coral
   }
